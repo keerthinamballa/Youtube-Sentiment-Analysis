@@ -1,0 +1,290 @@
+[
+    {
+        "text": "Once upon a time there was a famous monk who used to live on a high mountain far away.",
+        "start": 9010,
+        "end": 15558,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7354273796081543,
+        "speaker": null
+    },
+    {
+        "text": "At a place where not many people would go.",
+        "start": 15584,
+        "end": 18320,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5682376623153687,
+        "speaker": null
+    },
+    {
+        "text": "Still, people who heard about with him would walk up to the mountain on a difficult path to meet him.",
+        "start": 19070,
+        "end": 26360,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7727586627006531,
+        "speaker": null
+    },
+    {
+        "text": "One day a group of travelers who went up on mountains go to know about the monk and his wisdom.",
+        "start": 27050,
+        "end": 35490,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.910544216632843,
+        "speaker": null
+    },
+    {
+        "text": "So they decided to visit him.",
+        "start": 36230,
+        "end": 38900,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8503276109695435,
+        "speaker": null
+    },
+    {
+        "text": "On reaching there, they all greeted the mock.",
+        "start": 39410,
+        "end": 42630,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.682854950428009,
+        "speaker": null
+    },
+    {
+        "text": "Each of them wanted to talk to him about their own problems and ask for its solutions.",
+        "start": 43310,
+        "end": 49530,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.865471601486206,
+        "speaker": null
+    },
+    {
+        "text": "So they started to fight among themselves about who would ask first.",
+        "start": 50150,
+        "end": 55340,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6736631989479065,
+        "speaker": null
+    },
+    {
+        "text": "Fight among them got loud and soon it was choice.",
+        "start": 55970,
+        "end": 59914,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7702463865280151,
+        "speaker": null
+    },
+    {
+        "text": "There each one of them was saying that his problem is bigger and he needs to talk to Monk first.",
+        "start": 59962,
+        "end": 67400,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5251218676567078,
+        "speaker": null
+    },
+    {
+        "text": "Monk watched this commotion for a while and not seeing them getting to any decision, he shouted Silence.",
+        "start": 68090,
+        "end": 76890,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6628085970878601,
+        "speaker": null
+    },
+    {
+        "text": "All people got silent immediately.",
+        "start": 77390,
+        "end": 80430,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5307121276855469,
+        "speaker": null
+    },
+    {
+        "text": "Then Monk said I have a solution.",
+        "start": 81110,
+        "end": 83910,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8142239451408386,
+        "speaker": null
+    },
+    {
+        "text": "All of you sit down in a circle on the ground and wait.",
+        "start": 84350,
+        "end": 88640,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6442102193832397,
+        "speaker": null
+    },
+    {
+        "text": "Saying this, he left and came back with some paper sheets, pen and an empty ball.",
+        "start": 89150,
+        "end": 96450,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8117831349372864,
+        "speaker": null
+    },
+    {
+        "text": "He passed paper and penned to each one of them and placed bowl in the middle.",
+        "start": 96830,
+        "end": 102140,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9213652014732361,
+        "speaker": null
+    },
+    {
+        "text": "Then he instructed all of you write down your problem on a paper which you think that troubles you most.",
+        "start": 102770,
+        "end": 110360,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6830406188964844,
+        "speaker": null
+    },
+    {
+        "text": "And then fold that paper and put that paper in a ball.",
+        "start": 110870,
+        "end": 115050,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.820412278175354,
+        "speaker": null
+    },
+    {
+        "text": "Everyone started writing and then everyone finished writing.",
+        "start": 115910,
+        "end": 120166,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8029863238334656,
+        "speaker": null
+    },
+    {
+        "text": "They put their paper in the ball.",
+        "start": 120358,
+        "end": 122670,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.743609607219696,
+        "speaker": null
+    },
+    {
+        "text": "Then Monk picked up that ball and mixed all those papers.",
+        "start": 123230,
+        "end": 127710,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8241021037101746,
+        "speaker": null
+    },
+    {
+        "text": "Then he calmly handed the basket to a person sitting in the circle and said now pass the basket around and pick up whichever paper is on the top.",
+        "start": 128390,
+        "end": 139580,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8321747183799744,
+        "speaker": null
+    },
+    {
+        "text": "Read the problem and if you choose, make it your own or take back your own problem.",
+        "start": 140090,
+        "end": 146420,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6964945197105408,
+        "speaker": null
+    },
+    {
+        "text": "One by one each of them picked out a paper and read each other's problem.",
+        "start": 147410,
+        "end": 152420,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8429654240608215,
+        "speaker": null
+    },
+    {
+        "text": "When they read others problem, they were horrified.",
+        "start": 153110,
+        "end": 157230,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8680042028427124,
+        "speaker": null
+    },
+    {
+        "text": "Each one of them came to conclusion that their problem is not as worse as other persons problems.",
+        "start": 157910,
+        "end": 166100,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5039244890213013,
+        "speaker": null
+    },
+    {
+        "text": "Within a minute each one of them exchanged their problems.",
+        "start": 166790,
+        "end": 171140,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.48968422412872314,
+        "speaker": null
+    },
+    {
+        "text": "And when they finally had their original paper in their hand, they felt content.",
+        "start": 171590,
+        "end": 177380,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7436715960502625,
+        "speaker": null
+    },
+    {
+        "text": "They thanked the monk and went on their way.",
+        "start": 178070,
+        "end": 182120,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5341268181800842,
+        "speaker": null
+    },
+    {
+        "text": "If we see in our lives, then we will find that we all think that our problem is biggest of all.",
+        "start": 185490,
+        "end": 192960,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6439855694770813,
+        "speaker": null
+    },
+    {
+        "text": "But if we look at the problems of others, then our problems will start looking small to us.",
+        "start": 193350,
+        "end": 199980,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5374481081962585,
+        "speaker": null
+    },
+    {
+        "text": "In fact, there is no such person in this world who does not have any problem or adversity in his life.",
+        "start": 200670,
+        "end": 208320,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5324376225471497,
+        "speaker": null
+    },
+    {
+        "text": "Problems are part of our life.",
+        "start": 209130,
+        "end": 211560,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6809796094894409,
+        "speaker": null
+    },
+    {
+        "text": "If there is no problem in our life, then how can we feel happiness?",
+        "start": 211950,
+        "end": 216730,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5515396595001221,
+        "speaker": null
+    },
+    {
+        "text": "Therefore, for instead of being afraid of problems, we should try to face it.",
+        "start": 217650,
+        "end": 223500,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6268614530563354,
+        "speaker": null
+    },
+    {
+        "text": "Because the best way to escape from a problem is to solve it.",
+        "start": 223950,
+        "end": 229600,
+        "sentiment": "POSITIVE",
+        "confidence": 0.4800792336463928,
+        "speaker": null
+    }
+]
